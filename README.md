@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![jgambox's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgambox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgamboa&langs_count=8)](https://github.com/jgamboa/github-readme-stats)
+
 
