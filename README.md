@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos Gamboa</h1>
 ![](http://www.syamas.com/img/coding-freak.gif)
+
+![](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 <h3 align="center">Data Science & Machine Learning Enthusiast | DS4A@MinTic | IoT Developer | Full Stack Developer Learning</h3>
 
 <p align="left"> <a href="https://twitter.com/juancarlosgamb3" target="blank"><img src="https://img.shields.io/twitter/follow/juancarlosgamb3?logo=twitter&style=for-the-badge" alt="juancarlosgamb3" /></a> </p>
