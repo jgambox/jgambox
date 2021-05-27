@@ -24,11 +24,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/juancarlosgamb3" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="juancarlosgamb3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/inggamboa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="inggamboa" height="30" width="40" /></a>
-<a href="https://instagram.com/phywalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="phywalker" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/juancarlosgamboaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="juancarlosgamboaware" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ing_juancgamboa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="ing_juancgamboa" height="30" width="40" /></a>
+<a href="https://twitter.com/juancarlosgamb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="juancarlosgamb3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/inggamboa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="inggamboa" height="30" width="40" /></a>
+<a href="https://instagram.com/phywalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="phywalker" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/juancarlosgamboaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/youtube.svg" alt="juancarlosgamboaware" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ing_juancgamboa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/hackerrank.svg" alt="ing_juancgamboa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
