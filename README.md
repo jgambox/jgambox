@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos Gamboa</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast | DS4A@MinTic | IoT Developer | Full Stack Developer Learning</h3>
-<img src="https://camo.githubusercontent.com/c802167482b6e67310c54670f653bc7e2e58951fc64a365ea04299b2272005e3/687474703a2f2f7777772e7379616d61732e636f6d2f696d672f636f64696e672d667265616b2e676966" alt="" data-canonical-src="http://www.syamas.com/img/coding-freak.gif" style="max-width:30%;height: 300px;margin-left: 30%;">
+
+![](http://www.syamas.com/img/coding-freak.gif)
 <p align="left"> <a href="https://twitter.com/juancarlosgamb3" target="blank"><img src="https://img.shields.io/twitter/follow/juancarlosgamb3?logo=twitter&style=for-the-badge" alt="juancarlosgamb3" /></a> </p>
 
 - 🔭 I’m currently working on **Data Analytics, Flask Applications**
