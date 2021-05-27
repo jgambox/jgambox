@@ -1,3 +1,6 @@
+![](http://www.syamas.com/img/coding-freak.gif)
+
+
 <h1 align="center">Hi 👋, I'm Juan Carlos Gamboa</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast | DS4A@MinTic | IoT Developer | Full Stack Developer Learning</h3>
 
