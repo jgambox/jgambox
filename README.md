@@ -1,4 +1,5 @@
-![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+![](https://www.mygo.ge/uploads/blog/1584023795.jpg)
+
 <h1 align="center">Hi 👋, I'm Juan Carlos Gamboa</h1>
 <h3 align="center">Data Science & Machine Learning Enthusiast | DS4A@MinTic | IoT Developer | Full Stack Developer Learning</h3>
 <p align="left"> <a href="https://twitter.com/juancarlosgamb3" target="blank"><img src="https://img.shields.io/twitter/follow/juancarlosgamb3?logo=twitter&style=for-the-badge" alt="juancarlosgamb3" /></a> </p>
